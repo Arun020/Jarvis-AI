@@ -1,0 +1,12 @@
+{
+  "name": "jarvis-ai",
+  "version": "1.0.0",
+  "description": "Simple Jarvis AI Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
